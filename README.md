@@ -4,7 +4,7 @@ Educational agent-based models (ABMs) of mitochondrial fatty acid β-oxidation a
 
 This repository accompanies the manuscript:
 
-> Vieira LBL, Carvalho MER, Tsai EYJ, Santos EB, Silva TOM, Rodrigues AA, Ferreira-Junior JR. *Agent-Based Modeling in Biochemistry Education Using a NetLogo Approach Applied to Fatty Acid Catabolism.* Submitted to *Biochemistry and Molecular Biology Education*.
+> Vieira LBL, Tsai EYJ, Santos EB, Carvalho MER, Silva TOM, Rodrigues AA, Ferreira-Junior JR. *Agent-Based Modeling in Biochemistry Education Using a NetLogo Approach Applied to Fatty Acid Catabolism.* Submitted to *Biochemistry and Molecular Biology Education*.
 
 ---
 
